@@ -1,0 +1,7 @@
+{
+  "name": "mhsSI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
